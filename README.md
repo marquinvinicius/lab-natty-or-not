@@ -1,51 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+Aprenda a cozinhar, como um Masterchefe
 
-> Woooow! Look at this 👀
+📒 Descrição
+#### Uma apresentação breve de um slide, falando sobre o papel da Inteligencia artifical futuro
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
-### Objetivos
+🤖 Tecnologias Utilizadas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+- #### Gammas
+- #### Word para edição do conteúdo 
+- #### ChatGPT para ajudar na correção ortrográfica  
+ <br>
 
-### Template
+🧐 Processo de Criação
+#### O Gammas fou utilizado para fazer criação de 90% do conteúdo. 
+#### Complementei um pouco do contedúdo do slide, com um pouco do "mundo real".
+#### O ChatGPT funcionou como suporte para erros de gramaticais.  
+<br>
+🚀 Resultados
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#### O conteúdo bruto gerado pela Gammas, é de grande ajuda. Facilitando e adiantando 
+#### o precesso para criação de conteúdo. Resultando em ganho de tempo, para focar em 
+#### processos que apenas o ser humano pode fazer
 
-## 📒 Descrição
-Breve descrição do seu projeto
+### Reflexão 
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+#### O uso da tecnologia ajuda bastante, poupando bastante tempo para o Dev, porém,
+#### o trabalho humano continua indispensavel. 
